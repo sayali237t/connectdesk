@@ -2,6 +2,10 @@
 
 Lightweight contact & relationship manager: contacts, interaction timelines, notes and follow-ups.
 
+- Live: https://connectdesk-theta.vercel.app/
+- Source: https://github.com/sayali237t/connectdesk
+- Full docs: [DOCUMENTATION.md](DOCUMENTATION.md)
+
 **Stack:** Next.js (App Router) · React · Tailwind CSS · Mongoose · MongoDB Atlas · Lucide icons
 
 The frontend and the API (Next.js Route Handlers under `/api`) are one app, so there is no separate backend to deploy.
